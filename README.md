@@ -16,9 +16,9 @@
  
   🌱 I’m currently learning React Library.
   
-  ⚡ I've worked with React,JavaScript,Java SE,Java Swing,C++,QT,C#,PhotoShop(Photo Montage),Illustrator(Logo Design).
+  ⚙️ I've worked with React,JavaScript,Java SE,Java Swing,C++,QT,C#,PhotoShop(Photo Montage),Illustrator(Logo Design).
  
-  📫 How to reach me: 
+ #### 💬 Get in Touch :
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjjnn81@gmail.com)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MJNDE)
