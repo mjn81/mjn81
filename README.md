@@ -1,16 +1,38 @@
-### Hi there 👋
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<!--
-**mjn81/mjn81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Mohammad.J.Najafi 
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![React](https://img.shields.io/badge/React-Beginner-green)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-blue)
+![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-lightgrey)
+![Java](https://img.shields.io/badge/Java-Intermediate-red)
+  
+   ## About Me
+  
+ 🔭 I'm currently studying at computer engineering Department of [kharazmi Uni](https://khu.ac.ir).
+  
+ 💙 My interest field is FrontEnd and JavaScript.
+ 
+  🌱 I’m currently learning React Library.
+  
+  ⚡ I've worked with React,JavaScript,Java SE,Java Swing,C++,QT,C#,PhotoShop(Photo Montage),Illustrator(Logo Design).
+ 
+  📫 How to reach me: 
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjjnn81@gmail.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MJNDE)
+  
+  ## Hobbies
+  - Coding
+  - Solving Algorithem Problems
+  - Designing
+  - Youtube
+  
+  
+  ## HighLights
+ - CE Student at [kharazmi Uni](https://khu.ac.ir)
+ - JavaScript FrontEnd Developer
+ - Currently learning React
+ 
+ 
