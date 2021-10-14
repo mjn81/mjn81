@@ -2,7 +2,7 @@
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Mohammad.J.Najafi 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![React](https://img.shields.io/badge/React-Beginner-green)
+![React](https://img.shields.io/badge/React-Intermediate-green)
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Expert-blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-lightgrey)
@@ -22,6 +22,7 @@
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjjnn81@gmail.com)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MJNDE)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mjjnn81)
   ## Skills
   ![skills](https://github-readme-stats.vercel.app/api?username=mjn81&show_icons=true&hide_border=true)
   ## Hobbies
