@@ -6,7 +6,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Expert-blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-lightgrey)
-![Java](https://img.shields.io/badge/Java-Intermediate-red)
+![C#](https://img.shields.io/badge/C%23-Intermediate-red)
   
    ## About Me
   
