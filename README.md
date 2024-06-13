@@ -34,7 +34,6 @@
   
   ## HighLights
  - CE Student at [kharazmi Uni](https://khu.ac.ir)
- - JavaScript FrontEnd Developer
- - Currently learning React
+ - JavaScript Developer
  
  
