@@ -5,18 +5,19 @@
 ![React](https://img.shields.io/badge/React-Expret-green)
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Expert-blue)
-![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-lightgrey)
-![C#](https://img.shields.io/badge/C%23-Intermediate-red)
-  
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue?style=flat)
+![Next](https://img.shields.io/badge/Nextjs-Expert-black?style=flat)
+![AI](https://img.shields.io/badge/AI-Expert-lightgray?style=flat)
+
    ## About Me
   
- 🔭 I'm currently studying at computer engineering Department of [kharazmi Uni](https://khu.ac.ir).
+ 🔭 I'm currently studying at computer engineering Department of [Amirkabir University of Technology](https://aut.ac.ir).
   
- 💙 My interest field is FrontEnd and JavaScript.
+ 💙 My interest fields are Software Engineering and Artificial Inteligence.
  
-  🌱 I’m currently learning React Library.
+  🌱 I’m currently learning Large Language Model's and Generative AI.
   
-  ⚙️ I've worked with React,JavaScript,Java SE,Java Swing,C++,QT,C#,PhotoShop(Photo Montage),Illustrator(Logo Design).
+  ⚙️ I've worked with React,Next.js, TypeScript, JavaScript, Python, Pytorch, SciKitLearn, Transformer, Huggingface, Kaldi k2, OpenCV.
  
  #### 💬 Get in Touch :
   
@@ -33,7 +34,7 @@
   
   
   ## HighLights
- - CE Student at [kharazmi Uni](https://khu.ac.ir)
- - JavaScript Developer
+ - Master CE Student at [Amirkabir University of Technology](https://aut.ac.ir)
+ - Software & AI engineer
  
  
